@@ -1,0 +1,2 @@
+# Power
+allow hal_power_default vendor_sysfs_msm_perf:file rw_file_perms;
