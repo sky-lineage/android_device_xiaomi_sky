@@ -32,6 +32,10 @@ AXION_PROCESSOR := Snapdragon_4_Gen_2
 # safely disable libperfmgr without breaking boot
 TARGET_DISABLES_LIBPERF := true
 
+#GMS
+WITH_GMS := true
+TARGET_GAPPS_VARIANT := pico
+
 ## Device identifier
 PRODUCT_DEVICE := sky
 PRODUCT_NAME := lineage_sky
