@@ -23,7 +23,6 @@ $(call inherit-product, $(DEVICE_PATH)/device.mk)
 $(call inherit-product, vendor/xiaomi/sky/sky-vendor.mk)
 
 # Axion Flags
-TARGET_INCLUDE_AXFX := true
 AXION_CAMERA_REAR_INFO := 50,2
 AXION_CAMERA_FRONT_INFO := 8
 AXION_MAINTAINER := Arrowsploit
