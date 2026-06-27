@@ -11,7 +11,7 @@
 
 #define FINGERPRINT_POCO_IN "POCO/sky_p_in/sky:14/UKQ1.231003.002/OS2.0.202.0.VMWINXM:user/release-keys"
 #define FINGERPRINT_REDMI_IN "Redmi/sky_in/sky:14/UKQ1.231003.002/OS2.0.202.0.VMWINXM:user/release-keys"
-#define FINGERPRINT_CHINA "Redmi/sky/sky:14/UKQ1.231003.002/V816.0.9.0.UMWCNXM:user/release-keys"
+#define FINGERPRINT_CHINA "Redmi/river/river:14/UKQ1.231003.002/OS2.0.205.0.VMWCNXM:user/release-keys"
 #define FINGERPRINT_GLOBAL_NFC "Redmi/river_global/river:14/UKQ1.231003.002/V816.0.11.0.UMWMIXM:user/release-keys"
 #define FINGERPRINT_JPN "Redmi/XIG03_jp_kdi/XIG03:14/UKQ1.230917.001/V816.0.5.0.UMWJPKD:user/release-keys"
 
